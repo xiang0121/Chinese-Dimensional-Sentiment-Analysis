@@ -3,3 +3,5 @@
 /model_weight
 /predict_result
 evaluation.zip
+*.csv
+*.ckpt
